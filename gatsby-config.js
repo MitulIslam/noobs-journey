@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     url: 'https://noobsjourney.netlify.com',
-    title: 'Mitul Islam',
-    subtitle: 'programmer and problem solver.',
+    title: 'Blog of Mitul Islam',
+    subtitle: 'My~random~ziberish~blabbers',
     copyright: '© All rights reserved.',
-    disqusShortname: 'mitul_islam',
+    disqusShortname: 'https-mitulislam-me',
     menu: [
       {
         label: 'Articles',
@@ -21,7 +21,7 @@ module.exports = {
     ],
     author: {
       name: 'Mitul Islam',
-      email: '#',
+      email: 'mitul_islam@outlook.com',
       telegram: '#',
       twitter: '@mitul_islam',
       github: 'MitulIslam',
